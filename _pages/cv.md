@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Oberlin College, 2024
+* B.S. in Economics, Oberlin College, 2024
+* M.S. in Data Science, University of Pennsylvania, Expected 2025
+* M.S. in Data Science, UC Berkeley, Expected 2025
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Aug 2023: KeyBank - Risk Modeling & Analytics Intern
+  * Developed the C&I Middle Market Leasing Stress Testing Model to produce loss forecasts by implementing 3 different sub-models and communicated key findings to senior leaders for future loss prevention strategies across the US
+  * Enhanced model runtime by 30% by conducting exploratory data analysis, variable reduction, and rank order 1000+ features with new performance metrics utilizing SQL, Google BigQuery, and Python (Pandas, Matplotlib, and NumPy)
+  * Performed multi-factor analysis on the final candidate list of macroeconomic variables in combination with the loan-level variables to improve model performance and deepen the organizational understanding of key risk indicators
+  * Spearheaded the documentation efforts to improve modeling transparency & internal processes for future implementations 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Dec 2022 - Jan 2023: International Living Future Institute (ILFI) - Data Specialist Intern
+  * Collected, cleansed, and updated data of 200+ certified projects from Salesforce, utilizing Python Pandas and NumPy
+  * Improved portfolio companies’ energy efficiency by 20% by reviewing certified project documentation for ILFI’s Sustainable Living Future Challenges initiatives and implementing data imputation strategies to address data deficiency and quality issues
+  * Liaised with cross-functional teams to synthesize key metrics and built data pipelines with SQL and Python
+ 
+Technical Projects 
+=====
+* Sep 2022 - Present: Virtual Assistant Machine Learning Project
+  * Devised a Multitask, Multimodal Virtual Assistant with Persona-based Dialogues, Persona Extraction, and Active Acquisition of Persona Information (persona constructed through The Social Cognitive Theory of Personality) using Javascript 
+  * Built and trained a LSTM model on 120GB of conversational dialogues for the assistant using Python and PyTorch for the task of intent classification and dialogues
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* SQL
+* Python
+  * Pandas
+  * NumPy
+  * Matplotlib
+* Tableau
+* RStudio
+* Java
+* Stata
+* Microsoft Offict
+  * Excel
+  * PowerPoint
+  * Word
