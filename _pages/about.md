@@ -9,7 +9,7 @@ redirect_from:
 
 👩‍🎓 I'm a senior student at Oberlin College majoring in Mathematics and Data Science.
 
-📚 I have been admitted to the Data Science Programs at University of Pennsylvania and UC Berkeley. I was also admitted to the Bachelor's Program at Columbia University.
+📚 I have been admitted to the Data Science Programs at UC Berkeley and University of Pennsylvania. I was also admitted to the Bachelor's Program at Columbia University.
 
 🏢 I have worked as a Risk Modeling and Analytics Intern at KeyBank, a Data Specialist Intern at the International Living Future Institute, and a biomedical researcher at the Military Institute of Science and Technology.
 
