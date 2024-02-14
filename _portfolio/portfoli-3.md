@@ -1,6 +1,6 @@
 ---
 title: "Virtual Assistant Machine Learning Project"
-excerpt: "Machine Learning Project with Stanford Researcher"
+excerpt: "Machine Learning Project with Stanford Researcher<br/><img src='/images/assistant.png'>"
 collection: portfolio
 ---
 
