@@ -1,6 +1,6 @@
 ---
 title: "Analyzing The Effect of COVID-19 on The Gaming Industry"
-excerpt: "Project for Data Science Course at Oberlin College<br/><img src='/images/gaming-analysis.png'>"
+excerpt: "Project for Data Science Course at Oberlin College<br/><img src='/images/game-analysis.png'>"
 collection: portfolio
 ---
 
