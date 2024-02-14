@@ -11,6 +11,6 @@ redirect_from:
 
 📚 I have been admitted to the Data Science Programs at University of Pennsylvania and UC Berkeley. I was also admitted to the Bachelor's Program at Columbia University.
 
-🏢 I have worked as a Risk Modeling and Analytics Intern at KeyBank, a Data Specialist Intern at the International Lving Future Institute, and a biomedical researcher at the Military Institute of Science and Technology.
+🏢 I have worked as a Risk Modeling and Analytics Intern at KeyBank, a Data Specialist Intern at the International Living Future Institute, and a biomedical researcher at the Military Institute of Science and Technology.
 
 💻 My expertise is in Data Analytics and in Risk Models 
