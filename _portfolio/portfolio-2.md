@@ -1,6 +1,6 @@
 ---
 title: "Analyzing The Effect of Unemployment on Crime Rate"
-excerpt: "Honors Thesis at Oberlin College"
+excerpt: "Honors Thesis at Oberlin College<br/><img src='/images/crime-analysis.png'>"
 collection: portfolio
 ---
 
