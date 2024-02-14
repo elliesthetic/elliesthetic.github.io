@@ -54,7 +54,8 @@ Technical Projects
   * Analyzed the effect of unemployment on crime rate with a focus on the responsiveness of different types of crimes to high unemployment rates utilizing Arellano-Bond Estimator
  
 * Jan 2024 - Present: Film Data Analysis and Dashboard Creation Project
-  * Analyzed the housing price and unemployment data (1000+ observations, over 5 consecutive years) by county in Ohio to identify their negative correlation and the confounding factors that ● Crawled a comprehensive dataset of film titles, encompassing genres, ratings, and studio information using Python
+  * Analyzed the housing price and unemployment data (1000+ observations, over 5 consecutive years) by county in Ohio to identify their negative correlation and the confounding factors that
+  * Crawled a comprehensive dataset of film titles, encompassing genres, ratings, and studio information using Python
   * Utilized Excel to identify and present key industry trends and preferences through interactive visualizations and pivot tables
   * Designed and implemented an interactive Excel dashboard, enabling dynamic user interaction with data through features like
 slicers and custom filters, highlighting insights on film popularity and rating trends, enhancing data accessibility
